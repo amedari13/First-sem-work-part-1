@@ -1,0 +1,2 @@
+The stack: -->3-->2-->NULL
+The rewritten version :)
